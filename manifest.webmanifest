@@ -1,12 +1,12 @@
 {
-  "name": "CA StudyOS",
-  "short_name": "StudyOS",
-  "description": "Study planner for the whole CA journey",
+  "name": "Studify CA",
+  "short_name": "Studify CA",
+  "description": "Study planner for the whole CA journey. Your playlist got the vibe. Studify gets the grades.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0b1020",
+  "background_color": "#03093a",
   "theme_color": "#6366f1",
   "icons": [
     {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
